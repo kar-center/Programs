@@ -38,3 +38,47 @@ implement these in C:
 * hash map
 * Graph (with adjacent list)
 * BFS, DFS and Dijkstra Algorithms on that Graph 
+
+### Chapter 2: virtuality - 1 week
+in this chapter we aim to understand how virtualize oir execution on a virtual machine (or interpreter)
+
+compare and find differences in each of these execution frameworks:
+
+* node.js
+* python
+* java
+* .net core
+
+how do they execute their code on every machine without recompiling for that specific CPU architecture?
+
+we mostly use jvm-based languages (kotlin tbh) but feel free to choose any language in above list and familiarize yourself with your choice
+
+### chapter 3: functional and oop
+
+you have a data, you have a function, you have a scheme - you have a data function scheme apple pineapple (dad joke) 
+
+what are classes?  
+what is instance?  
+what is constructor? 
+what is inheritance?  
+what is each of these?  
+* class
+* abstract class
+* interface
+
+what are public protected and private modifiers?  
+what is static?  
+
+
+
+** Project 2**
+
+* the Code Cafe:
+
+we have a cafe called CC which stands for Code Cafe,  
+our cafe is entirely made of machines and no human is there to cook, pour, wash or stock our inventory 
+
+we bought all the robots and they require some clean and maintainable code!
+
+they work as follows:
+// TODO write stories 
