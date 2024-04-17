@@ -70,8 +70,20 @@ what are public protected and private modifiers?
 what is static?  
 
 
+also check design patterns:
 
-** Project 2**
+* singleton
+* facade
+* factory
+
+also check these keywords and see examples:
+* higher order functions
+* listeners and hooks
+* event driven
+
+
+
+** Project 2 **
 
 * the Code Cafe:
 
@@ -81,4 +93,28 @@ our cafe is entirely made of machines and no human is there to cook, pour, wash 
 we bought all the robots and they require some clean and maintainable code!
 
 they work as follows:
-// TODO write stories 
+* we have `RegisterBot` which tracks our budget
+* we have `ShopperBot` which buy our stuff
+* we have `ChefBot` which turns stuff into food and drinks
+* we have `OrderBot` which keep track of orders of customers
+* we have `InventoryBot` which keep track of our fridge
+* we have `WasherBot` which wash dishes and make them clean again
+* we have `ServerBot` which serve ready orders
+* we have `CleanerBot` which cleanup tables and gather dirty dishes
+* we have `ManagerBot` which can create new bots and destroy them to optimize our cafe as required
+
+
+* all `Bot`s have some shared attributes like how much energy they use for each operation and how much time they take to do one of their functions and how much they are cost for buying or being sold.
+
+customers will flow and they need to be served with least amount of time and most amount of profit.
+
+run this simulation in best possible way to optimize this cafe.
+
+
+start from basic and add complexity layer by layer and have tests from the begining to aid you while developing this (see JUnit or any test framework that your language supports)
+
+your code will be graded and is required to gain at-least 80/100 (which is given based on attributes like clean-code, comments (not useless vomit comments), tests (both failing and passing ones), loose coupling, use of patterns and inheritence and good message passings)
+
+you can submit for review for any number of times.
+
+
