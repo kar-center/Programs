@@ -6,14 +6,6 @@ This repository contains a curated list of resources to help you learn about Use
 
 &nbsp;&nbsp;&nbsp;
 
-<div align="center"> <h3>Overview</h3>
-<summary> 
-  <p> 📚 A comprehensive user interface and user experience learning resource for beginners, intermediates and experts. </p>
-
-  [![View ui-ux on GitHub](https://img.shields.io/github/stars/hendurhance/ui-ux?color=232323&label=ui-ux&logo=github&labelColor=232323)](https://github.com/hendurhance/ui-ux/) [![Author hendurhance](https://img.shields.io/badge/hendurhance-blue?labelColor=000000&logo=githubsponsors&logoColor=fff)](https://github.com/hendurhance) [![License: Creative Commons Zero v1.0 Universal](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](https://img.shields.io/twitter/follow/hendurhance?style=social)](https://twitter.com/hendurhance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hendurhance/) [![Donate](https://img.shields.io/badge/Donate-Flutterwave-blue.svg)](https://barter.me/hendurhance) [![Donate](https://img.shields.io/badge/Donate-Payday-blue.svg)](https://usepayday.me/hendurhance) 
-  <a href='https://github.com/hendurhance/ui-ux/tree/%40deprecated-2021-resource' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Old_ Learning Guide Version-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=grey&color=black'/></a>
-</summary>
-</div>
 
 
 &nbsp;&nbsp;&nbsp;
