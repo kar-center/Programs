@@ -1,16 +1,16 @@
 ### What is this program?
-It gives you a single path among many to consider yourself a junior backend enthusiasts.
+It gives you a single path among many to consider yourself a software enthusiasts.
 
 ### What does it require?
 1. analytic mindset
-2. passsion to finish what you start
+2. passion to finish what you start
 3. around 4 hours a day for 2 months
 
 
 ### How does it work?
 1. You continue your studies as state in section below
 2. You do your project as scheduled in section below
-3. You communicate with one of Kar.Center backend developers for one hour each 2 days to get hints, answer questions and general guidance
+3. You communicate with one of Kar.Center developers for one hour each 2 days to get hints, answer questions and general guidance
 
 ### Program:
 
@@ -20,15 +20,15 @@ Each of these can bring you a PHD so don't dwell too much.
 
 
 * Theory:
-  1. turing machines, what is computation?
-  2. john von neumann computer model
-  3. shanon information - speed duality, practical things have an upper cap
-* Fundementals:
-  1. how OS works? what is kernel
-  2. networkig OSI model, how computers communicate
-  3. ram, heap, stack and all other jargons
-  4. a C program from source to execution, how does it load into memory and get processed ?
-  5. concurrency and race condition, locking and interrupts
+    1. turing machines, what is computation?
+    2. john von neumann computer model
+    3. shanon information - speed duality, practical things have an upper cap
+* Fundamentals:
+    1. how OS works? what is kernel
+    2. networking OSI model, how computers communicate
+    3. ram, heap, stack and all other jargons
+    4. a C program from source to execution, how does it load into memory and get processed ?
+    5. concurrency and race condition, locking and interrupts
 
 
 **Project:**
@@ -37,7 +37,7 @@ implement these in C:
 * linked list
 * hash map
 * Graph (with adjacent list)
-* BFS, DFS and Dijkstra Algorithms on that Graph 
+* BFS, DFS and Dijkstra Algorithms on that Graph
 
 ### Chapter 2: virtuality - 1 week
 in this chapter we aim to understand how virtualize oir execution on a virtual machine (or interpreter)
@@ -55,19 +55,19 @@ we mostly use jvm-based languages (kotlin tbh) but feel free to choose any langu
 
 ### chapter 3: functional and oop
 
-you have a data, you have a function, you have a scheme - you have a data function scheme apple pineapple (dad joke) 
+you have a data, you have a function, you have a scheme - you have a data function scheme apple pineapple (dad joke)
 
 what are classes?  
 what is instance?  
-what is constructor? 
+what is constructor?
 what is inheritance?  
-what is each of these?  
+what is each of these?
 * class
 * abstract class
 * interface
 
 what are public protected and private modifiers?  
-what is static?  
+what is static?
 
 
 also check design patterns:
@@ -88,7 +88,7 @@ also check these keywords and see examples:
 * the Code Cafe:
 
 we have a cafe called CC which stands for Code Cafe,  
-our cafe is entirely made of machines and no human is there to cook, pour, wash or stock our inventory 
+our cafe is entirely made of machines and no human is there to cook, pour, wash or stock our inventory
 
 we bought all the robots and they require some clean and maintainable code!
 
@@ -106,9 +106,9 @@ they work as follows:
 
 * all `Bot`s have some shared attributes like how much energy they use for each operation and how much time they take to do one of their functions and how much they are cost for buying or being sold.
 
-customers will flow and they need to be served with least amount of time and most amount of profit.
+customers will flow, and they need to be served with the least amount of time and most amount of profit.
 
-run this simulation in best possible way to optimize this cafe.
+run this simulation in the best possible way to optimize this cafe.
 
 
 start from basic and add complexity layer by layer and have tests from the begining to aid you while developing this (see JUnit or any test framework that your language supports)
